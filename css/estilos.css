@@ -32,6 +32,9 @@ h6 {
     overflow: hidden;
 }
 
+#fotoPerfil {
+border-radius: 15px;
+}
 
 .contenedor1 {
     width: 100%;
